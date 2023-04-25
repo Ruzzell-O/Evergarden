@@ -1,0 +1,55 @@
+Gardening wears
+-Gardening Apron-159
+-Boots-165
+-Gardening Gloves-20
+
+Gardening tools
+-Shovel-250
+-Pruning Shears-250
+-Trowel-60
+-Hoe-237
+-Rake-495
+-Water Can-465
+-Garden Hose-299
+-Expandable Garden Hose-569
+
+Soils
+-Soil-100
+-Loam Soil-200
+-Garden Soil-65
+-Sandy Soil-120
+-Organic Charcoal-200
+-Garden pebbles/stons-500
+
+Fertilizers
+-Fertilizer-200
+
+Pots
+-Flower pot-170
+-Plant Box-100
+
+Seeds
+-Sunflower seeds-100
+-Cabbage seeds-59
+-Chili seeds-219
+-Tomato seeds-220
+-Brinjal seeds-79
+
+Plants
+-Money Plant-490
+-Cactus-140
+-Peperomia-249
+-copper Plant-200
+-Calathea Ornata-500
+-Rubber Plant-350
+-Yucca-2800
+-Peace Lily-450
+-English Ivy-200
+-Monstera Deliciosa-2500
+-Asparagus fern-160
+-Aloe vera-150
+-Spider plant-200
+-Dragon Tree-239
+
+Trash bags
+-trash bags-small-93_medium-148_large-249_extra large-368
