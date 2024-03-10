@@ -18,8 +18,6 @@ ul, nav, body, h1, h2, h4, h6, p, figure {
 
 a, button { transition: all 0.3s ease; }
 
-/* Bootstrap grid system  */
-
 html {
   box-sizing: border-box;
 }
@@ -35,6 +33,20 @@ html {
   max-width: 100%;
   margin-right: auto;
   margin-left: auto;
+}
+
+.tm-footer {
+  padding: 25px 15px;
+  margin-top: 40px;
+}
+
+.tm-footer a {
+  color: #626364;
+  text-decoration: none;
+}
+
+.tm-footer a:hover {
+  color: #1A6692;
 }
 
 .tm-container-inner,
@@ -115,9 +127,9 @@ html {
 }
 
 /*
-  primary: #2D99CC
-  success: #319966
-  danger: #993332
+  services: #2D99CC
+  products: #319966
+  contacts: #993332
 */
 
 .tm-btn {
@@ -142,34 +154,38 @@ html {
   background-color: #98999A;
 }
 
-.tm-btn-primary {
+.tm-btn-services {
   background-color: #2D99CC;
   color: white;
 }
 
-.tm-btn-primary:hover,
-.tm-btn-primary:focus {
+.tm-btn-services:hover,
+.tm-btn-services:focus {
   background-color: #1b6f96;
 }
 
-.tm-btn-success {
+.tm-text-products {
+  color: #319966;
+}
+
+.tm-btn-products {
   background-color: #319966;
   color: white;
 }
 
-.tm-btn-success:hover,
-.tm-btn-success:focus {
+.tm-btn-products:hover,
+.tm-btn-products:focus {
   background-color: #1d6e46;
 }
 
-.tm-btn-danger {
+.tm-btn-contact {
   background-color: #993332;
   color: white;
 }
 
-.tm-btn-danger:hover,
-.tm-btn-danger:focus {
-  background-color: #752423;
+.tm-btn-contact:hover,
+.tm-btn-contact:focus {
+  background-color: #831b19;
 }
 
 .tm-mb-45 {
@@ -178,10 +194,6 @@ html {
 
 .tm-mb-p {
   margin-bottom: 20px;
-}
-
-.tm-text-success {
-  color: #319966;
 }
 
 .text-center {
@@ -288,7 +300,6 @@ p, address {
   font-weight: 400;
   margin-bottom: 5px;
   font-weight: bold;
-
 }
 
 .tm-site-description {
@@ -458,10 +469,6 @@ p, address {
   color: white;
 }
 
-.tm-description-figure {
-  text-align: center;  
-}
-
 .tm-description-box {
   margin-left: auto;
   margin-right: auto;
@@ -486,20 +493,6 @@ p, address {
 
 .tm-right {
   align-self: center;;
-}
-
-.tm-footer {
-  padding: 25px 15px;
-  margin-top: 40px;
-}
-
-.tm-footer a {
-  color: #626364;
-  text-decoration: none;
-}
-
-.tm-footer a:hover {
-  color: #1A6692;
 }
 
 /* About */
