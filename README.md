@@ -2,8 +2,6 @@
 
 Evergarden is a responsive static eCommerce website created for a gardening and landscaping business. This project was developed as part of a course to demonstrate proficiency in front-end web development technologies.
 
-The website provides a platform for users to browse and learn about the various products and services offered by Evergarden. It features a clean and modern design with a focus on user experience.
-
 > Live Site: https://ruzzell-o.github.io/Evergarden/
 
 ## Features
